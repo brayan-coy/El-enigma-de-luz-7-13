@@ -17,6 +17,10 @@ body {
   -o-border-radius: 5px;
 }
 
+#indice {
+  color: black;
+}
+
 h1 {
   text-align: center;
   color: azure;
