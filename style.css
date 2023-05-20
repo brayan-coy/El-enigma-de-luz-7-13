@@ -30,7 +30,7 @@ p {
   color: black;
   font-family: "Times New Roman", Times, serif;
   font-size: 12px;
-
+  text-align: justify;
   /* margin: 0 auto;
   max-width: 600px;
   padding: 40px;
