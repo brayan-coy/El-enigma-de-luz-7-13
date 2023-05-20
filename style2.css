@@ -2,12 +2,6 @@ body {
   background-color: black;
 }
 
-p {
-  color: aliceblue;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 14px;
-}
-
 .button {
   display: inline-block;
   padding: 10px 20px;
@@ -26,4 +20,12 @@ p {
 h1 {
   text-align: center;
   color: azure;
+}
+
+p {
+  color: aliceblue;
+  -webkit-transform: scale(1);
+  text-align: justify;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
 }

@@ -2,6 +2,18 @@ body {
   background-color: #ffff00;
 }
 
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    font-size: 12px;
+  }
+}
+
 .button-container {
   margin-top: 20px;
   text-align: center;
@@ -10,7 +22,7 @@ body {
 .button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #4caf50;
+  background-color: red;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -28,13 +40,15 @@ h1 {
 
 p {
   color: black;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 12px;
+  -webkit-transform: scale(1);
   text-align: justify;
-  /* margin: 0 auto;
-  max-width: 600px;
-  padding: 40px;
- */
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+}
+
+.book p {
+  text-align: justify;
+  font-size: 1.2rem;
 }
 
 /* .container {
