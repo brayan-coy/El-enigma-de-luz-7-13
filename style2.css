@@ -32,8 +32,15 @@ p {
   text-align: justify;
   font-family: "Times New Roman", Times, serif;
   font-size: 14px;
+
+  margin-bottom: 10px;
+  text-indent: 1.27cm;
 }
 
 li {
   color: red;
+}
+
+#indiceprimero {
+  color: yellow;
 }
