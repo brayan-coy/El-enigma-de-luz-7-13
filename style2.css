@@ -44,3 +44,20 @@ li {
 #indiceprimero {
   color: yellow;
 }
+
+.progress-container {
+  width: 20px; /* Ancho del contenedor de la barra de progreso */
+  height: 200px; /* Altura del contenedor de la barra de progreso */
+  background-color: #ccc; /* Color de fondo del contenedor */
+  position: relative;
+}
+
+#progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  z-index: 9999;
+  
+}
