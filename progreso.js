@@ -1,12 +1,15 @@
 window.addEventListener("load", function () {
   var progressBar = document.querySelector("progress");
+
   function updateProgressBar() {
     var scrollHeight =
       document.documentElement.scrollHeight -
       document.documentElement.clientHeight;
     var scrollTop = document.documentElement.scrollTop;
     var progress = (scrollTop / scrollHeight) * 100;
+
     progressBar.value = progress;
+    document.title = "Progreso: " + Math.round(progress) + "%"; // Muestra el porcentaje en el título de la página
   }
 
   window.addEventListener("scroll", updateProgressBar);
@@ -19,26 +22,4 @@ window.addEventListener("load", function () {
   setTimeout(function () {
     updateProgressBar();
   }, 500); // Esperar 500ms antes de actualizar la barra de progreso
-});
-
-window.addEventListener("scroll", function () {
-  const progressBar = document.getElementById("progress-bar");
-  const scrollTop =
-    document.documentElement.scrollTop || document.body.scrollTop;
-  const scrollHeight =
-    document.documentElement.scrollHeight -
-    document.documentElement.clientHeight;
-  const progress = (scrollTop / scrollHeight) * 100;
-  progressBar.value = progress;
-});
-
-window.addEventListener("scroll", function () {
-  const progressBar = document.getElementById("progress-bar");
-  const scrollTop =
-    document.documentElement.scrollTop || document.body.scrollTop;
-  const scrollHeight =
-    document.documentElement.scrollHeight -
-    document.documentElement.clientHeight;
-  const progress = (scrollTop / scrollHeight) * 100;
-  progressBar.value = progress;
 });
