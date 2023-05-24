@@ -4,7 +4,7 @@ body {
 
 .button {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 20px 20px;
   background-color: #4caf50;
   color: white;
   text-decoration: none;
@@ -18,12 +18,14 @@ body {
 }
 
 #indice {
-  color: yellow;
+  color: white;
 }
 
 h1 {
   text-align: center;
   color: azure;
+  font-size: 50px;
+  color: blue;
 }
 
 p {
@@ -31,7 +33,7 @@ p {
   -webkit-transform: scale(1);
   text-align: justify;
   font-family: "Times New Roman", Times, serif;
-  font-size: 20px;
+  font-size: 30px;
 
   margin-bottom: 10px;
   text-indent: 1.27cm;
@@ -42,7 +44,7 @@ li {
 }
 
 #indiceprimero {
-  color: yellow;
+  color: blue;
 }
 
 .progress-container {
@@ -63,6 +65,18 @@ li {
 
 td {
   background-color: antiquewhite;
+  font-size: 30px;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  cursor: pointer;
+  color: black;
+}
+
+table {
+  background-color: green;
 }
 
 /* .button2 {
@@ -83,7 +97,7 @@ td {
   background-color: #4caf50;
   text-decoration: none;
   border-radius: 5px;
-  font-size: 16px;
+  font-size: 25px;
   cursor: pointer;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -92,4 +106,8 @@ td {
   border: none;
   float: right; /* Alinea el botón al lado derecho */
   color: white;
+}
+
+.nombre {
+  color: red;
 }
