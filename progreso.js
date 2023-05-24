@@ -9,7 +9,7 @@ window.addEventListener("load", function () {
     var progress = (scrollTop / scrollHeight) * 100;
 
     progressBar.value = progress;
-    document.title = "Progreso: " + Math.round(progress) + "%"; // Muestra el porcentaje en el título de la página
+    document.title = "% de Lectura: " + Math.round(progress) + "%"; // Muestra el porcentaje en el título de la página
   }
 
   window.addEventListener("scroll", updateProgressBar);
