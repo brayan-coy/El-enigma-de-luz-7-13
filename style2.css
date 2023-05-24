@@ -31,7 +31,7 @@ p {
   -webkit-transform: scale(1);
   text-align: justify;
   font-family: "Times New Roman", Times, serif;
-  font-size: 14px;
+  font-size: 20px;
 
   margin-bottom: 10px;
   text-indent: 1.27cm;
@@ -91,5 +91,5 @@ td {
   -o-border-radius: 5px;
   border: none;
   float: right; /* Alinea el botón al lado derecho */
-  color: #ccc;
+  color: white;
 }
