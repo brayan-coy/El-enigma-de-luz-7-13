@@ -15,9 +15,9 @@ Cosmogonías antiguas: ********************
 Teorías alternativas del origen del universo **********************
 Cosmología cuántica *******************
 Astrofísica de partículas *******
-Supernovas
-La Luna
-El Sol
+Supernovas ***********
+La Luna **********
+El Sol *************
 Viaje en el tiempo
 Multiverso
 Astrofotografía
@@ -38,7 +38,11 @@ El problema de la materia faltante
 La cosmología inflacionaria
 Las enanas marrones
 Las estrellas variables
-
+Sistemas planetarios extrasolares
+Astronomía infrarroja
+La formación de estrellas masivas
+El principio antrópico
+Misiones espaciales
 
 
 
