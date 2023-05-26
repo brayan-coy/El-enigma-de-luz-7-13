@@ -18,15 +18,14 @@ Astrofísica de partículas *******
 Supernovas ***********
 La Luna **********
 El Sol *************
-Viaje en el tiempo
-Multiverso
-Astrofotografía
-Exploración de Marte
-Nebulosas
-La Vía Láctea
-El último destino del universo--------- Muy interesante poner de los ultimos temas para terminar el libro
-Líneas de tiempo cósmicas:
-La estructura a gran escala del universo
+Viaje en el tiempo *******
+Multiverso ***********
+Astrofotografía ************
+Exploración de Marte **************
+Nebulosas  **************
+La Vía Láctea  *****************
+Líneas de tiempo cósmicas: ****************
+La estructura a gran escala del universo ************
 La teoría de cuerdas
 La antimateria en el espacio
 La radiación cósmica de alta energía
@@ -36,6 +35,7 @@ La aceleración cósmica
 El campo magnético terrestre
 El problema de la materia faltante
 La cosmología inflacionaria
+----
 Las enanas marrones
 Las estrellas variables
 Sistemas planetarios extrasolares
@@ -43,10 +43,6 @@ Astronomía infrarroja
 La formación de estrellas masivas
 El principio antrópico
 Misiones espaciales
-
-
-
-
 
 
 
@@ -59,7 +55,7 @@ Consecuencias de cambiar el pasado
 Viajes al futuro
 Posibilidades futuras
 Exoplanetas
-
+biblia
 
 --------------------------
 Temas de religiones 
@@ -80,3 +76,5 @@ El mito de Lucifer y su influencia en la cultura:
 Interpretaciones contemporáneas de Lucifer
 
 
+
+El último destino del universo--------- Muy interesante poner de los ultimos temas para terminar el libro
