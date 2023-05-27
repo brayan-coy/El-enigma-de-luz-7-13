@@ -26,35 +26,35 @@ Nebulosas  **************
 La Vía Láctea  *****************
 Líneas de tiempo cósmicas: ****************
 La estructura a gran escala del universo ************
-La teoría de cuerdas
-La antimateria en el espacio
-La radiación cósmica de alta energía
-La paradoja del tiempo
-Las tormentas solares
-La aceleración cósmica
-El campo magnético terrestre
-El problema de la materia faltante
-La cosmología inflacionaria
+La teoría de cuerdas **********
+La antimateria en el espacio ***************
+La radiación cósmica de alta energía **********
+La paradoja del tiempo *********
+Las tormentas solares ********
+La aceleración cósmica *********
+El campo magnético terrestre ************
+El problema de la materia faltante **********
+La cosmología inflacionaria **********
 ----
 Terremotos
 Calentamiento global
 Las enanas marrones
 Las estrellas variables
 Sistemas planetarios extrasolares
-Astronomía infrarroja
-La formación de estrellas masivas
-El principio antrópico
-Misiones espaciales
+Astronomía infrarroja 
+La formación de estrellas masivas **********
+El principio antrópico ************
+Misiones espaciales **********
 
 
 
 
 ---------------------------------
 Temas del viaje en el tiempo
-Paradojas temporales
-Máquinas del tiempo
-Consecuencias de cambiar el pasado
-Viajes al futuro
+Paradojas temporales ************
+Máquinas del tiempo *****************
+Teoria Consecuencias de cambiar el pasado ****************
+Teoria Viajes al futuro
 Posibilidades futuras
 Exoplanetas
 biblia
