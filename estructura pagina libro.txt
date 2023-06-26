@@ -11,7 +11,7 @@
   <body>
     <progress id="progress-bar" max="100" value="0"></progress>
     <h1>Tema</h1>
-    <p>´Parrafo</p>
+    <p></p>
   </body>
   <div class="button-container">
     <a href="indicedos.htm" id="indice" class="button">indice</a>
